@@ -6,5 +6,7 @@ public class HelloTeam {
 
         System.out.println("This is second line");
         System.out.println("Ersan PUSH & Pull");
+
+        System.out.println("This is second line");
     }
 }
